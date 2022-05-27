@@ -34,6 +34,7 @@
 ◦ <b>Overval op een bank,juwelier of winkel</b> <br>
      ➥ De onderhandelaar mag niet gegijzeld worden tijdens onderhandeling.<br>
      ➥ Vrienden als hostage nemen is ten strengste verboden.<br>
+     ➥ Het wegrijden voordat de onderhandelingen zijn gestart is verboden.<br>
 
 ◦ <b>RolePlay tegen over de politie</b><br>
      ➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In geval van nood (alleen waarschuwing schoten),           Als je een politie onder schot hebt en er komt back-up en het wordt gevaarlijk voor jou en je collega mag je schieten,onnodig schieten is een warn.<br> 
@@ -71,6 +72,7 @@
 
 ◦ <b>Verboden Criminaliteit</b><br>
      ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.<br>
+     ➥ Het campen van illegale locatiesis ten strengste verboden.<br>
 
 ◦ <b>Regels over de GangWar</b> <br>
      ➥ New Life rule in de gangwar betekend dat nadat je bent doodgeschoten ook niet meer mag meedoen aan t scenario en je ook het scenario niet meer weet.<br>
