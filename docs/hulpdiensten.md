@@ -10,7 +10,7 @@
 
 
 
-# Regels Politie/Kmar
+# Regels Politie/KMAR
 
 
  ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of BE of BSB anders is dit niet toegestaan.</br>
@@ -26,7 +26,7 @@
  ➥ Het betaald krijgen om iemand te reviven is niet toegestaan dit valt onder corruptie.</br>
  ➥ Het Vermoorden van een indienst ambulance is niet toegestaan hun zijn hier om jou te helpen. (maar de ambulance moet zich wel houden aan de value of life rule)</br>
 
-# Regels Anwb
+# Regels ANWB
  ➥ Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt. </br>
  ➥ Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen. </br>
  
