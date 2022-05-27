@@ -12,13 +12,10 @@
 ◦ <b>Ontvoeren</b> <br>
      ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip. <br>
      ➥ Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat!<br>
-     ➥ Voor het ontvoeren van burgers moet er minimaal 3 politie online zijn.<br>
-
 
 ◦ <b>Overvallen van burgers</b> <br>
      ➥ Het overvallen van iemand die een NON whitelisted job(UWV baan) uitvoert is streng verboden (Kan je zien aan de Outfit!)<br> 
      ➥ Het overvallen van burgers in openbare plekken is niet toegestaan! (Ziekenhuis,PolitieBureau,Casino,Cardealer). <br>
-     ➥ Het overvallen van een "Nieuwe burger" is streng verboden!(Dit kan je zien aan de rode tekst boven de persoon ze hoofd) <br>
      ➥ Na het overvallen van een burger mag je hem/haar niet vermoorden als de persoon meewerkt<br>
      ➥ Het overvallen van burgers is maximaal voor een bedrag van €30,000.<br>
 
