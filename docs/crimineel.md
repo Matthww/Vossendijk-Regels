@@ -69,7 +69,7 @@
 
 ◦ <b>Verboden Criminaliteit</b><br>
      ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.<br>
-     ➥ Het campen van illegale locaties ten strengste verboden.<br>
+     ➥ Het campen van illegale locaties is ten strengste verboden.<br>
 
 ◦ <b>Regels over de GangWar</b> <br>
      ➥ New Life rule in de gangwar betekend dat nadat je bent doodgeschoten ook niet meer mag meedoen aan t scenario en je ook het scenario niet meer weet.<br>
