@@ -6,6 +6,8 @@
 
 ◦ <b>Gta Style Driving</b> ➥ Het is toegestaan om met voertuigen offroad te rijden. Het is niet toegstaan om onrealistische sprongen te maken. MAAR Nogsteeds geld de No Value of Life rule
 
+◦ <b>Crashen met je Voertuig</b> ➥ Wanneer je met een voertuig crasht, is er niks aan de hand behalve als je en black-out krijgt. Krijg je een black-out en ga je door met de RP valt dit onder FailRP
+
 ◦ <b>Karakter Breken</b> ➥ Het ooc gaan in een roleplay situatie is niet toegestaan. Als iemand dit doet probeer het scenario zo goed mogelijk te eindigen. Je moet ten alle tijden de roleplay afmaken
  
 ◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood is niet toegestaan.
