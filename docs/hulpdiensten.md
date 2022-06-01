@@ -5,6 +5,7 @@
     ➥ Uitzondering als er in dat scenario geen ander beschikbaar voertuig is en je pakt het voertuig met voldoende rp.</br>
  ➥ Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.</br>
  ➥ Het overvallen van hulpdiensten is niet toegestaan.</br>
+ ➥ Het gijzelen van Politie, mag pas vanaf 5 agenten en dan 1/3 van het actieve korps.</br>
 
 
 
