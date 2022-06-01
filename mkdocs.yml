@@ -1,5 +1,7 @@
 # Project information
-site_name: Vossendijk-Regels
+site_name: Vossendijk Regels
+site_url: 'https://regels.vossendijkrp.nl/'
+site_description: 'Wet en regelgeving van Vossendijk RP'
 site_author: 'Vossendijk'
 
 # Copyright
