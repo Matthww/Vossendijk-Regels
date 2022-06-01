@@ -38,8 +38,8 @@
 
 ◦ <b>Microfoon</b> ➥ Je moet een goed werkende microfoon hebben. Als je dit niet hebt is het niet toegestaan om in de stad te komen.
 
-◦ <b>Porto Gebruik</b><br>
-<br> ➥ Het gebruiken van een Porto in het water valt onder FAILRP
+◦ <b>Porto Gebruik</b>
+<br> ➥ Het gebruiken van een portofoon in het water valt onder FAILRP
 <br> ➥ Het gebruiken van je communicatie terwijl dit afgepakt is valt onder FAILRP 
 
 ◦ <b>Kleding</b> ➥ Het dragen van overheidskleding of staff kleding is niet toegestaan. Zorg er voor dat je outfit klopt en geen gaten in je kleding zit. Je mag alleen een wapenholster omdoen als je een wapen hebt. Kogelwerende vesten zijn verboden en enkel gezichtsbedekkende kleding dragen tijdens illegale dingen. Als je een van deze punten overtreed staat hier een straf op.

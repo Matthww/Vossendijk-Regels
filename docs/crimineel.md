@@ -67,7 +67,6 @@
      ➥ Porto en telefoon zijn de enige geldige communicatie middelen maak je gebruik van discord zal dit als META worden gezien. <br>
 
 ◦ <b>Verboden Criminaliteit</b><br>
-     ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.<br>
      ➥ Het campen van illegale locaties is ten strengste verboden.<br>
      ➥ Het counteren van een bank, wanneer de Politie aanwezig is.<br>
      
