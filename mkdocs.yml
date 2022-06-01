@@ -21,6 +21,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  favicon: img/logo.png
+  logo: img/logo.png
   language: nl
 plugins:
   - search:
