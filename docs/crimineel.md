@@ -55,7 +55,6 @@
 ◦ <b>Regels ten aanzien van auto gebruik</b> <br>
      ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.<br> 
      ➥ Het pakken van een auto uit de garage in een achtervolging mag niet! Staat er ergens een vriend die je ophaalt is wel toegestaan! <br>
-     ➥ Bij een Fatale klap of crash in een achtervolging Heb je te roleplayen naar de vorm van het ongeluk! <br>
 
 ◦ <b>FAIL RP scenarios/situaties</b>     <br>
      ➥ Het vluchten nadat iemand je probeert te pitten, overvallen, kidnappen naar een greenzone is ten strengste verboden! <br>
@@ -70,6 +69,8 @@
 ◦ <b>Verboden Criminaliteit</b><br>
      ➥ Het maken van meth met 2 personen in 1 bus is ten strengste verboden en valt onder bug abuse.<br>
      ➥ Het campen van illegale locaties is ten strengste verboden.<br>
+     ➥ Het counteren van een bank, wanneer de Politie aanwezig is.<br>
+     
 
 ◦ <b>Regels over de GangWar</b> <br>
      ➥ New Life rule in de gangwar betekend dat nadat je bent doodgeschoten ook niet meer mag meedoen aan t scenario en je ook het scenario niet meer weet.<br>
