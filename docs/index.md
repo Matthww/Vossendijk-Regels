@@ -42,7 +42,7 @@
 <br> ➥ Het gebruiken van een portofoon in het water valt onder FAILRP
 <br> ➥ Het gebruiken van je communicatie terwijl dit afgepakt is valt onder FAILRP 
 
-◦ <b>Kleding</b> ➥ Het dragen van overheidskleding of staff kleding is niet toegestaan. Zorg er voor dat je outfit klopt en geen gaten in je kleding zit. Je mag alleen een wapenholster omdoen als je een wapen hebt. Kogelwerende vesten zijn verboden en enkel gezichtsbedekkende kleding dragen tijdens illegale dingen. Als je een van deze punten overtreed staat hier een straf op.
+◦ <b>Kleding</b> ➥ Het dragen van overheidskleding of staff kleding is niet toegestaan. Zorg er voor dat je outfit klopt en geen gaten in je kleding zit. Je mag alleen een wapenholster omdoen als je een wapen hebt. Kogelwerende vesten zijn verboden evenals motorhelem/helmen die kogels tanken. Als je een van deze punten overtreed staat hier een straf op.
 
 ◦ <b>Aanrijding</b> ➥ Bij een aanrijding dien je de roleplay aan te gaan en af te maken, het wegrijden bij een aanrijding zonder roleplay word gezien als fail roleplay.
 
@@ -50,7 +50,6 @@
 
 ◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder daadwerkelijk bewijs via een clip systeem zoals medal of instant replay. Maak hiervoor een ticket aan. Screenshots zijn niet toegestaan.
 
-◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen / Criminele activiteiten uitvoeren. Op de volgende locaties zijn greenzone: Ziekenhuis, Cardealer, Casino.
 
 ◦ <b>IRL geld</b><br>
      ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.<br>
