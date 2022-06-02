@@ -25,7 +25,7 @@
 ◦ <b>Het vermoorden van burgers</b><br>
      ➥ Er moet worden voldaan aan een duidelijk RP Scenario. (clip hiervan is verplicht) (beoordeeld door een staflid)<br> 
      ➥ Het vermoorden van burgers is niet toegestaan op de volgende plekken:
-        Ziekenhuis, Auto Dealer, Casino <br>
+        Ziekenhuis <br>
      ➥ Het vermoorden van hostages mag als het scenario escaleert anders is dit niet toegestaan.<br> 
 
 ◦ <b>Overval op een bank,juwelier of winkel</b> <br>
