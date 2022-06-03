@@ -44,7 +44,7 @@
 
 ◦ <b>Kleding</b> 
 <br> ➥ Het dragen van overheidskleding of staff kleding is niet toegestaan. Zorg er voor dat je outfit klopt en geen gaten in je kleding zit. Je mag alleen een wapenholster omdoen als je een wapen hebt. Kogelwerende vesten zijn verboden evenals motorhelem/helmen die kogels tanken. Als je een van deze punten overtreed staat hier een straf op.
-<br> ➥ Het uit doen van kleding, om er een voordeel uit te halen. Bijvoorbeeld: Je schoenen uit doen voor een beter zicht.
+<br> ➥ Het uit doen van kleding, om er een voordeel uit te halen. Bijvoorbeeld: Je schoenen uit doen voor een beter zicht is verboden!
 
 ◦ <b>Aanrijding</b> ➥ Bij een aanrijding dien je de roleplay aan te gaan en af te maken, het wegrijden bij een aanrijding zonder roleplay word gezien als fail roleplay.
 
