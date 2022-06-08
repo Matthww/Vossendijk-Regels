@@ -68,7 +68,7 @@
 
 ◦ <b>Verboden Criminaliteit</b><br>
      ➥ Het campen van illegale locaties is ten strengste verboden.<br>
-     ➥ Het counteren van een bank, wanneer de Politie aanwezig is.<br>
+     ➥ Het counteren van een overval, wanneer de Politie aanwezig is.<br>
      
 
 ◦ <b>Regels over de GangWar</b> <br>
