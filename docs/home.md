@@ -1,11 +1,11 @@
-# Wet- en regelgeving van VossenDijkRP
+# Wet- en Regelgeving van VossenDijkRP
 
-<b>
+<p>
   Welkom om de webpagina van VossenDijkRP, aan de linkerkant van de webpagina kan je navigeren.
    Op deze webpagina kan je alle informatie vinden die je nodig hebt over de stad.
-</b>
-  </br>
-# Officiële Discord Servers
+<p>
+  <br><br>
+<h2>Officiële Discord Servers</h2>
   <table>
     <thead>
       <tr>
