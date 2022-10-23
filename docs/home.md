@@ -1,4 +1,5 @@
-# Wet- en Regelgeving van VossenDijkRP
+# Home
+<h1>Wet- en Regelgeving van VossenDijkRP</h1>
 
 <p>
   Welkom om de webpagina van VossenDijkRP, aan de linkerkant van de webpagina kan je navigeren.
