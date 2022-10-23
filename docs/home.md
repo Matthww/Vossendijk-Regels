@@ -14,8 +14,7 @@
      <tr>
         <th>Server</th>
         <th>Omschrijving</th>
-        <th align="center">
-        Link</th>
+        <th align="center">Link</th>
      </tr>
    <thead>
      <tbody>
