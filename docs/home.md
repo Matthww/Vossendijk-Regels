@@ -4,7 +4,7 @@
   Welkom om de webpagina van VossenDijkRP, aan de linkerkant van de webpagina kan je navigeren.
   Op deze webpagina kan je alle informatie vinden die je nodig hebt over de stad.
 <p>
-  <br>
+  
 <h2>Officiële Discord Servers</h2>
 <p>
   Dit zijn de discord's die zijn toegestaan door het bestuur.
