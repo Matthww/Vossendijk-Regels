@@ -1,4 +1,3 @@
-# Home
 <h1>Wet- en Regelgeving van VossenDijkRP</h1>
 
 <p>
