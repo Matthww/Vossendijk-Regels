@@ -34,9 +34,9 @@ markdown_extensions:
   - pymdownx.superfences
 nav:
   - Home: index.md
-  - Algemeen Regels: algemeneregels.md
-  - Crimineel Circuit: crimineel.md
-  - Hulpdiensten: hulpdiensten.md
-  - Content Regels: content.md
-  - Value of Life: valueoflife.md
-  - New Life Rule: newliferule.md
+  - Algemene regels: algemeneregels.md
+  - Criminele circuit: crimineel.md
+  - Hulpdiensten regels: hulpdiensten.md
+  - Content regels: content.md
+  - Value of life regels: valueoflife.md
+  - New life regels: newliferule.md
