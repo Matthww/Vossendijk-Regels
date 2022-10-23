@@ -1,7 +1,7 @@
-<h1>Wet- en Regelgeving van VossenDijkRP</h1>
+<h1>Wet- en Regelgeving van Vossendijk RP</h1>
 
 <p>
-  Welkom om de webpagina van VossenDijkRP, aan de linkerkant van de webpagina kan je navigeren.
+  Welkom om de webpagina van Vossendijk RP, aan de linkerkant van de webpagina kan je navigeren.
   Op deze webpagina kan je alle informatie vinden die je nodig hebt over de stad.
 <p>
   
@@ -19,22 +19,22 @@
    <thead>
      <tbody>
        <tr>
-         <td>VossenDijk RolePlay</td>
-         <td>Main Server VossendijkRP</td>
+         <td>Vossendijk RolePlay</td>
+         <td>Main Server Vossendijk RP</td>
          <td align="center">
            <a href="https://discord.gg/wdrsgFp2nB">Invite</a>
          </td>
        </tr>
        <tr>
-         <td>VossenDijk Gang Discord</td>
-         <td>Gang Server VossendijkRP</td>
+         <td>Vossendijk Gang Discord</td>
+         <td>Gang Server Vossendijk RP</td>
          <td align="center">
            <a href="https://discord.gg/W6z8d6aHFY">Invite</a>
          </td>
        </tr>
        <tr>
-         <td>VossenDijk Hulpdiensten</td>
-         <td>Hulpdiensten Server VossendijkRP</td>
+         <td>Vossendijk Hulpdiensten</td>
+         <td>Hulpdiensten Server Vossendijk RP</td>
          <td align="center">
            <a href="https://discord.gg/VHg4Bnk5av">Invite</a>
          </td>
