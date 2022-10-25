@@ -8,10 +8,13 @@
 <h3>Definities</h3>
 <p>
 Algemene definities:
-Stad: ZuiderVeen
-Staff Team: Staff
-Hogerop: Staff-Lead
-  
+<br>
+Stad → Vossendijk
+<br>
+Staff Team → Staff
+<br>
+Hogerop → Staff-Lead
+</p>
 <h3>Begrippen:</h3>
   <strong>OOC</strong> → Out Of Character. Alles buiten de RP om.
   <br>
