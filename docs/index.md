@@ -14,11 +14,17 @@ Hogerop: Staff-Lead
   
 <h3>Begrippen:</h3>
   <strong>OOC</strong> → Out Of Character. Alles buiten de RP om.
+  <br>
   <strong>IC</strong> → In Character. Alles binnen de RP.
+  <br>
   <strong>VDM</strong> → Vehicle Deathmatch. Je voertuig als wapen/in voordeel gebruiken.
+  <br>
   <strong>RDM</strong> → Random Deathmatch. Zonder enige RP/Aanleiding personen vermoorden.
+  <br>
   <strong>FailRP</strong> → Slechte RP. Geen aanleiding tot een RP scenario, totaal geen RP, slechte RP.
+  <br>
   <strong>RP</strong> → Roleplay.
+  <br>
 </p>
 <h2>Officiële Discord Servers</h2>
 <p>
