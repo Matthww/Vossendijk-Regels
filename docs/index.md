@@ -1,5 +1,6 @@
-## Wet- en Regelgeving van Vossendijk RP
+## HoofdPagina
 
+<h2>Wet- en Regelgeving van Vossendijk RP</h2>
 <p>
   Welkom om de hoofdpagina van Vossendijk RP, aan de linkerkant van de hoofdpagina kan je navigeren.
   Op deze hoofdagina kan je alle informatie vinden die je nodig hebt over de stad.
