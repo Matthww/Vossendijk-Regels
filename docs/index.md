@@ -1,13 +1,29 @@
 <h1>Wet- en Regelgeving van Vossendijk RP</h1>
 
 <p>
-  Welkom om de webpagina van Vossendijk RP, aan de linkerkant van de webpagina kan je navigeren.
-  Op deze webpagina kan je alle informatie vinden die je nodig hebt over de stad.
+  Welkom om de hoofdpagina van Vossendijk RP, aan de linkerkant van de hoofdpagina kan je navigeren.
+  Op deze hoofdagina kan je alle informatie vinden die je nodig hebt over de stad.
 <p>
   
+<h3>Definities</h3>
+<p>
+Algemene definities:
+Stad: ZuiderVeen
+Staff Team: Staff
+Hogerop: Staff-Lead
+  
+<h3>Begrippen:</h3>
+  <strong>OOC</strong> → Out Of Character. Alles buiten de RP om.
+  <strong>IC</strong> → In Character. Alles binnen de RP.
+  <strong>VDM</strong> → Vehicle Deathmatch. Je voertuig als wapen/in voordeel gebruiken.
+  <strong>RDM</strong> → Random Deathmatch. Zonder enige RP/Aanleiding personen vermoorden.
+  <strong>FailRP</strong> → Slechte RP. Geen aanleiding tot een RP scenario, totaal geen RP, slechte RP.
+  <strong>RP</strong> → Roleplay.
+</p>
 <h2>Officiële Discord Servers</h2>
 <p>
   Dit zijn de discord's die zijn toegestaan door het bestuur.
+</p>
 </p>
  <table>
    <thead>
@@ -26,7 +42,7 @@
          </td>
        </tr>
        <tr>
-         <td>Vossendijk Gang Discord</td>
+         <td>Vossendijk Gangs</td>
          <td>Gang Server Vossendijk RP</td>
          <td align="center">
            <a href="https://discord.gg/W6z8d6aHFY">Invite</a>
