@@ -28,8 +28,10 @@ Hogerop → Staff-Lead
   <strong>RP</strong> → Roleplay.
   <br>
 </p>
-## Officiële Discord Servers
+# Officiële Discord Servers
+
 Dit zijn de discord's die zijn toegestaan door het bestuur.
+<div class="tabel">
  <table>
    <thead>
      <tr>
@@ -61,4 +63,4 @@ Dit zijn de discord's die zijn toegestaan door het bestuur.
          </td>
        </tr>
   </table>
-     
+</div>    
