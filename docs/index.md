@@ -1,4 +1,4 @@
-#>Wet- en Regelgeving van Vossendijk RP
+## Wet- en Regelgeving van Vossendijk RP
 
 <p>
   Welkom om de hoofdpagina van Vossendijk RP, aan de linkerkant van de hoofdpagina kan je navigeren.
@@ -29,7 +29,7 @@ Hogerop → Staff-Lead
   <strong>RP</strong> → Roleplay.
   <br>
 </p>
-#Officiële Discord Servers
+## Officiële Discord Servers
 <p>
   Dit zijn de discord's die zijn toegestaan door het bestuur.
 </p>
