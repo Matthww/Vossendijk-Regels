@@ -1,13 +1,11 @@
 # HoofdPagina
 
-<h2>Wet- en Regelgeving van Vossendijk RP</h2>
-<p>
   Welkom om de hoofdpagina van Vossendijk RP, aan de linkerkant van de hoofdpagina kan je navigeren.
   Op deze hoofdagina kan je alle informatie vinden die je nodig hebt over de stad.
-<p>
+
   
 <h3>Definities</h3>
-<p>
+
 Algemene definities:
 <br>
 Stad → Vossendijk
@@ -15,7 +13,7 @@ Stad → Vossendijk
 Staff Team → Staff
 <br>
 Hogerop → Staff-Lead
-</p>
+
 <h3>Begrippen:</h3>
   <strong>OOC</strong> → Out Of Character. Alles buiten de RP om.
   <br>
@@ -31,10 +29,7 @@ Hogerop → Staff-Lead
   <br>
 </p>
 ## Officiële Discord Servers
-<p>
-  Dit zijn de discord's die zijn toegestaan door het bestuur.
-</p>
-</p>
+Dit zijn de discord's die zijn toegestaan door het bestuur.
  <table>
    <thead>
      <tr>
