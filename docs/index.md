@@ -1,4 +1,4 @@
-## HoofdPagina
+# HoofdPagina
 
 <h2>Wet- en Regelgeving van Vossendijk RP</h2>
 <p>
