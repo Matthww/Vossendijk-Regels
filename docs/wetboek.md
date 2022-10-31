@@ -54,7 +54,7 @@ De overtreding van Wet 1.6 (Geen intentie tot Roleplay) zal resulteren in een st
 In Vossendijk is jouw leven eigenlijk het meest waardevol. Dit betekend dus dat het belangrijk is dat jij waarde hecht aan je leven.
 Krijg jij een wapen op je gericht? Werk dan mee. Als je niet meewerkt op het moment dat je bijvoorbeeld een wapen op je gericht hebt valt dit onder het kopje "No value of life". Indien er een steekwapen in het spel is dien je ten alle tijden mee te werken. Bij een slagwapen (knuppel bijvoorbeeld) is het toegestaan om weg te rennen indien dit geen levensbedreigende situatie is. Zodra er een vuurwapen op je gericht staat binnen ongeveer 15 meter dan is het niet meer toegestaan om weg te rennen. Als je rijdt is dit echter wel toegestaan en mag je gewoon doorrijden. Uiteraard als je stilstaat is het niet toegestaan om weg te rijden.
 
-De overtreding van Wet 1.7 (Value of Life) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.7 (Value of Life) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.8 - Meta-gaming
 
@@ -64,7 +64,7 @@ De overtreding van Wet 1.7 (Value of Life) zal resulteren in een straf van de 3�
 
 3. Op het moment dat een staff-lid iemand verdenkt van Meta-gaming mag diegene bewijs opvragen. Indien dit niet aangetoont kan worden zal hierop gestraft mogen worden. 
 
-De overtreding van Wet 1.8 (Meta-gaming) zal resulteren in een straf van de 4ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.8 (Meta-gaming) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.9 - Exploits
 
@@ -107,7 +107,7 @@ Omdat wij streng tegen het combatloggen zijn en het toch vaak gebeurt zullen er 
 - De rechten voor een gangmenu zullen afgenomen worden (indien je in het bezit bent van).
 - De rechten voor je overheids instantie zullen ook worden afgenomen (indien je in het bezit bent van).
 
-De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.14 - Combat storing
 
@@ -200,8 +200,8 @@ Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze s
 - Overschot aan kogels (Politie).
 - Iemand forceren zijn/haar kluis leeg te halen in een huis.
 - Het bestelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
-- Het Kofferbakken leeghalen van standaard job voertuigen.
-- Custom kentekens van spelers.
+- Het kofferbakken leeghalen van standaard job voertuigen.
+- Donatie spullen van spelers.
 
 De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
 
@@ -223,18 +223,6 @@ Het zomaar erin "toveren" van iemand in een voertuig is niet meer toegestaan.
 Mocht de agent of KMAR collega zijn weggegaan is het wel toegestaan om gewoon het gebied te verlaten en je eigen dingen te hervatten.
 
 De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie.
-
-## 2.1.6 Campen op een drugs locatie
-
-Het is niet toegestaan om mensen te rippen op en rondom drugslocaties.
-Ook het rippen rondom een cocaïne farm van minimaal 100 meter is niet toegestaan.
-Het iemand forceren uit een bepaalde drugs locatie om hem vervolgens dood te schieten of iets is daarentegen ook niet toegestaan.
-Het is ook niet toegestaan om naar een drugs locatie te rijden om het te voorkomen overvallen te worden.
-Stel de RP start al voordat dit gebeurt is dan is het uiteraard WEL toegestaan om de RP tijdens af te maken. 
-Maak hier wel een clip bij zodat je jezelf goed kunt verdedigen tijdens een mogelijke staffzaak.
-
-De overtreding van Wet 2.1.6 (Campen op een drugs locatie) zal resulteren in een straf van de 2ᵉ categorie.
-
 
 ## 2.1.8 - Verkoop via telefoon
 
@@ -269,11 +257,12 @@ Voordelen gebruiken die jij hebt als overheidsdienst hebt om hiermee winst te ma
 Het reanimeren van iemand die overleden is of spullen halen uit een kluis onder welke omstandigheden ook zonder toestemming van een hogere.
 Dit zijn enkel voorbeelden. Dingen zoals het uitvoeren van criminele activiteiten als Politie, ANWB, Ambulance vallen hier ook onder.
 
-De overtreding van Wet 2.2.4 (Corruptie) zal resulteren in een straf van de 7ᵉ (en mogelijk 10ᵉ) categorie.
+De overtreding van Wet 2.2.4 (Corruptie) zal resulteren in een straf van de 4ᵉ (en mogelijk 10ᵉ) categorie.
 
 ## 2.2.5 - IRL Trading
 
 Het verhandelen van goederen voor echt geld, denk hierbij aan wapens, voertuigen of andere dingen is ten strengste verboden.
+De spullen worden ingenomen, van de persoon die het koopt.
 
 De overtreding van Wet 2.2.5 (IRL Trading) zal resulteren in een straf van de 7ᵉ en dit kan oplopen tot de 10ᵉ categorie.
 
