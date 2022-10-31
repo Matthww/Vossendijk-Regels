@@ -8,6 +8,11 @@ Hieronder kan je lezen met welke voertuigen je off-road mag rijden en met welke 
 |Z| Onverharde wegen | De grond waarop gereden wordt is bestaande uit een zichtbaar pad van zand, modder, klei of gras. 
 |O| Off-Road | De ondergrond bestaat uit zand, modder, klei of gras en er is geen zichtbaar wegdek/pad. |
 
+## Overtreding
+
+Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is valt dit onder [Artikel 3.1 - Gta Rijstyle]
+(https://regels.vossendijkrp.nl/wetboek/#31-gta-rijstyle) van het wetboek.
+
 | Klasse | Beschrijving |
 |---|:---:|
  | SUV | Z
