@@ -155,6 +155,16 @@ Wanneer je moet gaan met hoge urgentie dien je dit te melden aan staffleden en a
 
 De overtreding van Wet 1.18 (RP scenario's) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
+## 1.19 - Alten
+
+Het gebruik maken van alts (extra accounts), is niet toegestaan. Hieronder valt:
+
+- Het is verboden om alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt.
+- Het gebruiken van een alt om te dupen.
+- Het gebruik maken van een alt om criminele activiteiten te ondergaan, terwijl je bij een overhidsinstantie werkt op het normale account.
+
+De overtreding van Wet 1.19 (Alten) zal resulteren in een straf van de 10ᵉ categorie en 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
 ## 2.1.2 - Overvallen & Wapens
 
 1. Tijdens het plegen van een overval dien je voor bepaalde dingen ten alle tijden een wapen te hebben. Dit zal hieronder duidelijker vermeld worden.
@@ -223,6 +233,10 @@ Het zomaar erin "toveren" van iemand in een voertuig is niet meer toegestaan.
 Mocht de agent of KMAR collega zijn weggegaan is het wel toegestaan om gewoon het gebied te verlaten en je eigen dingen te hervatten.
 
 De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie.
+
+## 2.1.6 - Het verzamelen van drugs
+
+Het verzamelen van drugs in een voertuig/vaartuig is niet toegestaan.
 
 ## 2.1.8 - Verkoop via telefoon
 
