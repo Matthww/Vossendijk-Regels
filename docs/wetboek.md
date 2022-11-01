@@ -218,8 +218,8 @@ Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze s
 
 - Alle spullen van een overheidsinstantie (Politie,AMBU,ANWB).
 - Iemand forceren zijn/haar kluis leeg te halen in een huis.
-- Het bestelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
-- Het kofferbakken leeghalen van standaard job voertuigen.
+- Het stelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
+- Het leeghalen van kofferbakken van standaard job voertuigen.
 - Donatie spullen van spelers.
 
 De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
