@@ -385,9 +385,10 @@ De overtreding van Wet 3.7 (Journalistiek) zal resulteren in een ban, totdat het
 ## 3.8 - Jobhoppen
 
 1.(Ex-)leden van een criminele organisatie dienen minimaal 3 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hogerop.
+
 2.(Ex-)medewerkers van een overheidsbaan dienen minimaal 3 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hogerop.
 
-*Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
+*Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.*
 
 De overtreding van Wet 3.8 (Jobhoppen) zal resulteren in een straf van de 1ᵉ categorie en ontslag, die bij iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
