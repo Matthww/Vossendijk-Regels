@@ -182,16 +182,20 @@ Indien dit niet het geval is is het verboden om dit transport te overvallen.
 
 4. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
 
-5. Voor het plegen van een overval dient er een minimaal aantal agenten in-dienst te zijn. Deze zullen hieronder vermeld worden. 
+5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
+
+7. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
+
+8. Het wegrijden voordat er gepraat is met de Politie is niet toegestaan.
+
+9. Voor het plegen van een overval dient er een minimaal aantal agenten in-dienst te zijn. Deze zullen hieronder vermeld worden. 
 
 - Winkel: 2+ Agenten
 - Juwelier: 5+ Agenten
 - Grote bank: 7+ Agenten
 - Kleine bank: 4+ Agenten
 
-6. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
-7. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
-8. Het wegrijden voordat er gepraat is met de Politie is niet toegestaan.
+
 
 De overtreding van Wet 2.1.2 (Overvallen & Wapens) zal resulteren in een straf van de 2ᵉ categorie.
 
