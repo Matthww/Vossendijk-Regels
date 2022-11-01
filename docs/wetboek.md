@@ -189,6 +189,9 @@ Indien dit niet het geval is is het verboden om dit transport te overvallen.
 - Grote bank: 7+ Agenten
 - Kleine bank: 4+ Agenten
 
+6. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
+7. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
+8. Het wegrijden voordat er gepraat is met de Politie is niet toegestaan.
 
 De overtreding van Wet 2.1.2 (Overvallen & Wapens) zal resulteren in een straf van de 2ᵉ categorie.
 
@@ -360,6 +363,40 @@ Ook het inhuren van een huurmoordenaar is niet toegestaan.
 
 De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
+## 3.7 - Journalisitiek
+
+1. Wanneer een Journalist bezig met een uitzending, of opnemen is het niet toegestaan om hem/haar te storen. 
+
+*Dit betekend niet dat elk wildvreemde een journalist is, hiervoor moet je specifiek de job hebben.
+
+De overtreding van Wet 3.7 (Journalistiek) zal resulteren in een ban, totdat het scenario/opname/livestream is gestopt.
+
+## 3.8 - Jobhoppen
+
+1.(Ex-)leden van een criminele organisatie dienen minimaal 3 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hogerop.
+2.(Ex-)medewerkers van een overheidsbaan dienen minimaal 3 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hogerop.
+
+*Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
+
+De overtreding van Wet 3.8 (Jobhoppen) zal resulteren in een straf van de 1ᵉ categorie en ontslag, die bij iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
+
 --------------------------------
 
-## 4.1 Gang Regels
+## 4.1 - Gang Regels
+
+Hieronder kan je de regels vinden voor gangs.
+
+1. Vermijd altijd het schieten bij een officieel gang huis.
+2. Het is verboden, om nep-meldingen te maken bij een gang huis met de intentie om de Politie informatie te geven. Of problemen te regelen voor de rivaliserende gang.
+3. Gang oorlog mag verklaard worden door 1 van de 2 groepen (door de gangbazen) wanneer hiervoor een goede reden is. Een oorlog is afgelopen wanneer:
+- Hij langer dan 72 uur duurt
+- Als alle leden zijn overleden
+- Wanneer 1 of beide groepen zich overgeven
+
+Bij het overtreden van de regels beschreven in lid 1,2,3 zal resulteren in een straf van de 1ᵉ categorie.
+
+4. Het afpakken van items van een speler is alleen toegestaan als de persoon nog leeft.
+
+Bij de overtreden van lid 4 zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
