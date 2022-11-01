@@ -378,7 +378,7 @@ De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ ca
 
 1. Wanneer een Journalist bezig met een uitzending, of opnemen is het niet toegestaan om hem/haar te storen. 
 
-*Dit betekend niet dat elk wildvreemde een journalist is, hiervoor moet je specifiek de job hebben.
+*Dit betekend niet dat elk wildvreemde een journalist is, hiervoor moet je specifiek de job hebben.*
 
 De overtreding van Wet 3.7 (Journalistiek) zal resulteren in een ban, totdat het scenario/opname/livestream is gestopt.
 
