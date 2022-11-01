@@ -126,7 +126,9 @@ Als er een god (staff-lid) is gekomen omdat er een van wetsartikelen is overtred
 Als iemand jou bijvoorbeeld verteld wat er gebeurt is, dan is het ook niet toegestaan om je dit terug te herinneren. 
 
 **Wat je nog wel weet**
+
 - Contacten in je Telefoon.
+- Gang, indien je onder een gang valt, weet je alles daarover ook nog. Denk hierbij aan huis, leden, functie.
 - Baan, indien je werkt bij een overheids instantie weet je alles daarover **wel**.
 
 3. Vergelding halen voor je "Vorige Dood" is ook niet toegestaan.
@@ -135,7 +137,7 @@ De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2
 
 ## 1.16 - Third Party Mods
 
-Het gebruik maken van mods (crosshairs, cheats etc.) of derden is niet toegestaan.
+Het gebruik maken van mods (crosshairs, cheats, NoProps etc.) of derden is niet toegestaan.
 Er zijn echter een aantal dingen wel toegestaan, het gebruik maken van een Soundpack (wapen geluiden, voertuig geluiden etc.) en het gebruik maken van een visualpack (graphics mod). 
 
 **Alle modificaties die leiden tot een voordeel zijn verboden.**
@@ -161,7 +163,7 @@ Het gebruik maken van alts (extra accounts), is niet toegestaan. Hieronder valt:
 
 - Het is verboden om alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt.
 - Het gebruiken van een alt om te dupen.
-- Het gebruik maken van een alt om criminele activiteiten te ondergaan, terwijl je bij een overhidsinstantie werkt op het normale account.
+- Het gebruik maken van een alt om criminele activiteiten te ondergaan, terwijl je bij een overheidsinstantie werkt op het normale account.
 
 De overtreding van Wet 1.19 (Alten) zal resulteren in een straf van de 10ᵉ categorie en 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
