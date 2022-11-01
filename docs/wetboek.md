@@ -245,7 +245,12 @@ De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf 
 
 ## 2.1.6 - Het verzamelen van drugs
 
-Het verzamelen van drugs in een voertuig/vaartuig is niet toegestaan.
+Het verzamelen/verpakken van drugs in een voertuig/vaartuig is niet toegestaan.
+Bij overtreding van deze regel dient de persoon:
+
+- Gehele lading drugs die hiermee verzamelt of verpakt is in te leveren bij staff.
+
+De overtreding van Wet 2.1.6 (Het verzamelen van drugs) zal resulteren in een straf van de 1ᵉ categorie en de extra punt hierboven beschreven.
 
 ## 2.1.8 - Verkoop via telefoon
 
