@@ -207,7 +207,7 @@ Zodra je iemand overvallen hebt en hij/zij heeft goed meegewerkt dan is het niet
 
 Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze staan hieronder vermeld.
 
-- Overschot aan kogels (Politie).
+- Alle spullen van een overheidsinstantie (Politie,AMBU,ANWB).
 - Iemand forceren zijn/haar kluis leeg te halen in een huis.
 - Het bestelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
 - Het kofferbakken leeghalen van standaard job voertuigen.
@@ -359,3 +359,7 @@ Het is niet toegestaan om bounties op iemand zijn "hoofd" te zetten.
 Ook het inhuren van een huurmoordenaar is niet toegestaan.
 
 De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
+--------------------------------
+
+## 4.1 Gang Regels
