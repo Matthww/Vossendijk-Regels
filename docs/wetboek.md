@@ -357,7 +357,7 @@ De overtreding van Wet 3.2 (Karakter & Kleding) zal resulteren in een straf van 
 
 ## 3.4 Oplichten (scammen)
 
-Het oplichten binnen Vossendijk is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven. Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €5.000,- Illegale goederen zoals hand en -vuurwapens en drugs zit een geen max bedrag op hierbij word geen onderscheid gemaakt tussen zwart en witgeld.
+Het oplichten binnen Vossendijk is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven. Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €50.000,- Illegale goederen zoals hand en -vuurwapens en drugs zit een geen max bedrag op hierbij word geen onderscheid gemaakt tussen zwart en witgeld.
 
 De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
