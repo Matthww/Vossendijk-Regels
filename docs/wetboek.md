@@ -131,7 +131,7 @@ Als iemand jou bijvoorbeeld verteld wat er gebeurt is, dan is het ook niet toege
 - Gang, indien je onder een gang valt, weet je alles daarover ook nog. Denk hierbij aan huis, leden, functie.
 - Baan, indien je werkt bij een overheids instantie weet je alles daarover **wel**.
 
-3. Vergelding halen voor je "Vorige Dood" is ook niet toegestaan.
+3. Vergelding halen voor je "Vorige Dood" is niet toegestaan.
 
 De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
