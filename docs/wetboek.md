@@ -404,10 +404,11 @@ Hieronder kan je de regels vinden voor gangs.
 
 1. Vermijd altijd het schieten bij een officieel gang huis.
 2. Het is verboden, om nep-meldingen te maken bij een gang huis met de intentie om de Politie informatie te geven. Of problemen te regelen voor de rivaliserende gang.
+
 3. Gang oorlog mag verklaard worden door 1 van de 2 groepen (door de gangbazen) wanneer hiervoor een goede reden is. Een oorlog is afgelopen wanneer:
-- Hij langer dan 72 uur duurt
-- Als alle leden zijn overleden
-- Wanneer 1 of beide groepen zich overgeven
+➥ Hij langer dan 72 uur duurt
+➥ Als alle leden zijn overleden
+➥ Wanneer 1 of beide groepen zich overgeven
 
 Bij het overtreden van de regels beschreven in lid 1,2,3 zal resulteren in een straf van de 1ᵉ categorie.
 
