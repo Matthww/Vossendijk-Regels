@@ -327,7 +327,7 @@ De overtreding van Wet 2.2.7 (Bewijsmateriaal) zal resulteren in een straf van d
 Het gebruik maken van emotes met als doeleinden om ze te abusen is niet toegestaan. 
 Een enkel voorbeeld is het sneller opstaan doormiddel van een emote.
 
-De overtreding van Wet 2.3.2 (Emote abuse) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 2.3.2 (Emote abuse) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 --------------------------------
 
