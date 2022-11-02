@@ -5,13 +5,13 @@ Bij sommige regels geld dat als je meerdere keren de straf doorgaat hij steeds s
 
 | Categorie | Straf |
 |---|---|
-| Categorie 1 | 6 Uur |
-| Categorie 2 | 1 Dag |
-| Categorie 3 | 3 Dagen |
-| Categorie 4 | 1 Week |
-| Categorie 5 | 2 Weken |
-| Categorie 6 | 1 Maand |
-| Categorie 7 | 3 Maanden |
-| Categorie 8 | 1 Jaar |
+| Categorie 1 | Warn |
+| Categorie 2 | 6 Uur |
+| Categorie 3 | 1 Dag |
+| Categorie 4 | 3 Dagen |
+| Categorie 5 | 1 Week |
+| Categorie 6 | 2 Weken |
+| Categorie 7 | 1 Maand |
+| Categorie 8 | 3 maanden |
 | Categorie 9 | Permanent |
 | Categorie 10 | Account Reset/Wipe |
