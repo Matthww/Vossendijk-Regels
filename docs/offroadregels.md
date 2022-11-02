@@ -20,5 +20,6 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
  | SEDAN | Z
  | OFF-ROAD | O
  | COMPACT | Z
+ | MOTOR | B
  
 *Verdere verduidelijking word later gemaakt.
