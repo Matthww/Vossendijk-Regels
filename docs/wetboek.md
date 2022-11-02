@@ -339,7 +339,9 @@ De overtreding van Wet 2.3.2 (Emote abuse) zal resulteren in een straf van de 6แ
 - Het nemen van zogenoemde jumps.
 - Het opzettelijk inrijden op personen of objecten.
 
-2. Verder uitleg kan je vinden in het kopje "Gta Style Driving"
+2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realistische factoren zoals snelheden, gewichten en het formaat van de voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 150 km/h. Dit geldt ook voor overheidsdiensten. Het beuken met auto's alsof je in een botsauto zit is NIET toegestaan. Dit geldt ook voor overheidsdiensten.
+
+3. Verder uitleg kan je vinden in het kopje "Gta Style Driving"
 
 De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 3แต categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
