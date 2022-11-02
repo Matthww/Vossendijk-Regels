@@ -174,10 +174,10 @@ Alle dingen hieronder zijn MINIMAAL vermeld. Het is toegestaan om zwaarder gesch
 
 2. Het is ten alle tijden verplicht om een overval af te ronden. Het tussentijds stoppen omdat er bijvoorbeeld politie eenheden aanrijdend zijn is geen reden.
 
-- Winkel: Handwapens
-- (Kleine) Bank: Vuurwapens
-- Juwelier: Vuurwapens
-- Grote Bank: Vuurwapens
+➥ Winkel: Handwapens
+➥ (Kleine) Bank: Vuurwapens
+➥ Juwelier: Vuurwapens
+➥ Grote Bank: Vuurwapens
 
 3. Indien iemand het besluit om een gevangenistransport te onderscheppen dient degene in kwestie minimaal 20 maanden celstraf opgelegd gekregen hebben. 
 Indien dit niet het geval is is het verboden om dit transport te overvallen.
@@ -192,11 +192,12 @@ Indien dit niet het geval is is het verboden om dit transport te overvallen.
 
 9. Voor het plegen van een overval dient er een minimaal aantal agenten in-dienst te zijn. Deze zullen hieronder vermeld worden. 
 
-- Winkel: 2+ Agenten
-- Juwelier: 5+ Agenten
-- Grote bank: 7+ Agenten
-- Kleine bank: 4+ Agenten
+10. Het liegen vanuit de overvallers is niet toegestaan, de Politie mag wel liegen in onderhandelingen.
 
+➥ Winkel: 2+ Agenten
+➥ Juwelier: 5+ Agenten
+➥ Grote bank: 7+ Agenten
+➥ Kleine bank: 4+ Agenten
 
 
 De overtreding van Wet 2.1.2 (Overvallen & Wapens) zal resulteren in een straf van de 2ᵉ categorie.
