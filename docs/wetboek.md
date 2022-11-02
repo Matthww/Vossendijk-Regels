@@ -148,7 +148,7 @@ De overtreding van Wet 1.16 (Third Party Mods) zal resulteren in een straf van d
 
 Het gebruik maken van informatie die verkregen is doormiddel van een video of door een livestream op een stream of videoplatvorm is niet toegestaan.
 
-De overtreding van Wet 1.17 (Streamsnipen) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.17 (Streamsnipen) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.18 - Roleplay scenario's
 
