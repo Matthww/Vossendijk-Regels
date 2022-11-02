@@ -303,7 +303,7 @@ Het is niet toegestaan om spelers of overheidsinstanties uit te lokken indien er
 De overtreding van Wet 2.2.6 ((Cop)baiting) zal resulteren in een straf van de 2ᵉ categorie.
 
 
-### 2.2.7 Overheidsvoertuigen
+## 2.2.7 Overheidsvoertuigen
 
 Overheidsvoertuigen stelen:
 Achter het stelen van overheidsvoertuigen moet ten alle tijd goede RP zitten.
