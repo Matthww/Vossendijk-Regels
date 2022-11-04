@@ -175,8 +175,11 @@ Alle dingen hieronder zijn MINIMAAL vermeld. Het is toegestaan om zwaarder gesch
 2. Het is ten alle tijden verplicht om een overval af te ronden. Het tussentijds stoppen omdat er bijvoorbeeld politie eenheden aanrijdend zijn is geen reden.
 
 ➥ Winkel: Handwapens
+<br>
 ➥ (Kleine) Bank: Vuurwapens
+<br>
 ➥ Juwelier: Vuurwapens
+<br>
 ➥ Grote Bank: Vuurwapens
 
 3. Indien iemand het besluit om een gevangenistransport te onderscheppen dient degene in kwestie minimaal 20 maanden celstraf opgelegd gekregen hebben. 
@@ -195,8 +198,11 @@ Indien dit niet het geval is is het verboden om dit transport te overvallen.
 10. Het liegen vanuit de overvallers is niet toegestaan, de Politie mag wel liegen in onderhandelingen.
 
 ➥ Winkel: 2+ Agenten
+<br>
 ➥ Juwelier: 5+ Agenten
+<br>
 ➥ Grote bank: 7+ Agenten
+<br>
 ➥ Kleine bank: 4+ Agenten
 
 
@@ -343,7 +349,7 @@ De overtreding van Wet 2.3.2 (Emote abuse) zal resulteren in een straf van de 1�
 
 3. Verder uitleg kan je vinden in het kopje "Gta Style Driving"
 
-De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.2 - Karakter en Kleding
 
@@ -368,7 +374,7 @@ De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ c
 
 Indien je vlucht van een overheidsinstantie dien je dit te doen met een reden. Een boete, stoplicht passeren die op rood staat is geen geldige reden. 
 
-De overtreding van Wet 3.5 (Vluchten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.5 (Vluchten) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.6 - Bounties
 
@@ -403,11 +409,15 @@ De overtreding van Wet 3.8 (Jobhoppen) zal resulteren in een straf van de 1ᵉ c
 Hieronder kan je de regels vinden voor gangs.
 
 1. Vermijd altijd het schieten bij een officieel gang huis.
+
 2. Het is verboden, om nep-meldingen te maken bij een gang huis met de intentie om de Politie informatie te geven. Of problemen te regelen voor de rivaliserende gang.
 
 3. Gang oorlog mag verklaard worden door 1 van de 2 groepen (door de gangbazen) wanneer hiervoor een goede reden is. Een oorlog is afgelopen wanneer:
+
 ➥ Hij langer dan 72 uur duurt
+<br>
 ➥ Als alle leden zijn overleden
+<br>
 ➥ Wanneer 1 of beide groepen zich overgeven
 
 Bij het overtreden van de regels beschreven in lid 1,2,3 zal resulteren in een straf van de 1ᵉ categorie.
