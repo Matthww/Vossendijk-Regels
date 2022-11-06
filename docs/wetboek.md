@@ -6,6 +6,8 @@ Denk hierbij aan het gebruik maken van bugs, glitches, exploits of aangereden wo
 2. Het gebruik maken van "broodje META" of andere termen om zo alsnog OOC te kunnen praten is vanaf heden ook niet meer toegestaan.
 Het buiten karakter treden zonder een staff-zaak of toestemming van een staff-lid zal zwaar gehandhaafd worden.
 
+3. Het pakken van voertuigen uit garage's, boten huren etc. Is niet toegestaan!
+
 De overtreding van Wet 1 (FailRP) zal resulteren in een straf van de 2ᵉ categorie die iedere keer oploopt bij het overtreden hiervan.
 
 ## 1.2 - Powergaming
@@ -47,7 +49,7 @@ De overtreding van Wet 1.5 (VDM) zal resulteren in een straf van de 1ᵉ categor
 
 Het is ten alle tijden verplicht om je aan de roleplay te houden binnen Vossendijk. Wij zijn een roleplay server en daarom verwachten wij dat iedereen daar rekening mee houdt.
 
-De overtreding van Wet 1.6 (Geen intentie tot Roleplay) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.6 (Geen intentie tot Roleplay) zal resulteren in een straf van de 4ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.7 - Value of Life 
 
@@ -334,6 +336,13 @@ Het gebruik maken van emotes met als doeleinden om ze te abusen is niet toegesta
 Een enkel voorbeeld is het sneller opstaan doormiddel van een emote.
 
 De overtreding van Wet 2.3.2 (Emote abuse) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
+## 2.3.3 - Hostagen
+
+Het hostagen van enige overheidsdiensten op uitzondering van de Politie is niet toegestaan. 
+Het gijzelen van een ANWB/AMBU bijvoorbeeld is ten strengste verboden.
+
+De overtreding van Wet 2.3.3(Hostagen) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 --------------------------------
 
