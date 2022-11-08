@@ -6,7 +6,7 @@ Denk hierbij aan het gebruik maken van bugs, glitches, exploits of aangereden wo
 2. Het gebruik maken van "broodje META" of andere termen om zo alsnog OOC te kunnen praten is vanaf heden ook niet meer toegestaan.
 Het buiten karakter treden zonder een staff-zaak of toestemming van een staff-lid zal zwaar gehandhaafd worden.
 
-3. Het pakken van voertuigen uit garage's, boten huren etc. Is niet toegestaan!
+3. Het pakken van voertuigen uit garage's, boten huren etc. Tijdens een RP scenario is niet toegestaan! *Tijdslimit*: 15 Min.
 
 De overtreding van Wet 1 (FailRP) zal resulteren in een straf van de 2ᵉ categorie die iedere keer oploopt bij het overtreden hiervan.
 
@@ -111,11 +111,13 @@ Omdat wij streng tegen het combatloggen zijn en het toch vaak gebeurt zullen er 
 
 De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 1.14 - Combat storing
+## 1.14 - Combat Storing
 
 1. Het is niet toegestaan om je voertuig te plaatsen in een garage om een inbeslagname of om rip actie te voorkomen.
 
 2. Tijdens het produceren van meth is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan dus ten alle tijden uit de garage te laten of je meth ergens anders op te slaan.
+
+3. Het opslaan van spullen in je appartementen binnen 15 minuten is niet toegestaan!
 
 De overtreding van Wet 1.14 (Combat storing) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
