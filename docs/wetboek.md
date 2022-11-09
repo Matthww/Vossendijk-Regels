@@ -22,12 +22,13 @@ Het /me command mag enkel gebruikt worden in roleplay scenario's wanneer het een
 "/me pakt communicatie middelen en dienstwapens af" 
 
 4. Het verplichten om speciale acties door iemand uit te laten voeren:
+<br>
 "Verplichten om een huis/loods binnen te gaan en er dingen eruit te halen"
 <br>
 "Verplichten om sleutels af te geven van huis/loods" 
 <br>
 "Spullen uit een gangkluis halen"
-
+<br>
 De overtreding van Wet 1.2 (Powergaming) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.3 - Verstoring van Roleplay
