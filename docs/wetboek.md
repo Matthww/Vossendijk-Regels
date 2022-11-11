@@ -80,7 +80,7 @@ De overtreding van Wet 1.8 (Meta-gaming) zal resulteren in een straf van de 3ᵉ
 
 Het gebruik maken van enige exploits is ten alle tijden verboden. Hiermee bedoelen wij bug abuse of andere vormen van het oneerlijk generen van voordelen in Vossendijk.
 
-De overtreding van Wet 1.9 (Exploits) zal resulteren in een straf van de 6ᵉ categorie tot de 10ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.9 (Exploits) zal resulteren in een straf van de 6ᵉ categorie tot de 10ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie. Het oneerlijk generen van voordelen "bug abuse" zal resulteren in een straf van de 1ᵉ categorie tot de 10ᵉ categorie.
 
 ## 1.10 - Herkenning
 
@@ -356,7 +356,7 @@ De overtreding van Wet 2.3.3(Hostagen) zal resulteren in een straf van de 2ᵉ c
 
 --------------------------------
 
-## 3.1 - GTA Rijstyle
+## 3.1 - GTA Style Driving
 
 1. GTA rijstyle houdt in dat onrealistisch rijgedrag niet is toegestaan. Schansen gebruiken of het off-road rijden met sportvoertuigen en met onrealistische snelheden door bepaalde gebieden rijden. Een aantal voorbeelden wat onder GTA Drivestyle valt: 
 
@@ -368,7 +368,7 @@ De overtreding van Wet 2.3.3(Hostagen) zal resulteren in een straf van de 2ᵉ c
 
 3. Verder uitleg kan je vinden in het kopje "Gta Style Driving"
 
-De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.1 (GTA Style Driving) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.2 - Karakter en Kleding
 
