@@ -166,7 +166,7 @@ De overtreding van Wet 1.17 (Streamsnipen) zal resulteren in een straf van de 3แ
 
 Zodra er een roleplay scenario begint is het niet toegestaan om uit te loggen voor de komende 15 minuten. 
 Wanneer je moet gaan met hoge urgentie dien je dit te melden aan staffleden en anders is er kans op een sanctie hiervoor.
-Wanneer AMBULANCE een scenario aangaat met een dode, dient het hele scenario afgemaakt te worden. Het omhoog laten halen van mensen om te looten is VERBODEN!
+Wanneer AMBULANCE een scenario aangaat met een dode, dient het hele scenario afgemaakt te worden. Het omhoog laten halen van mensen om te looten is VERBODEN evenals het express brengen van Politie naar een locatie, zodat je de spullen/wapens af te pakken/rippen! 
 
 De overtreding van Wet 1.18 (RP scenario's) zal resulteren in een straf van de 2แต categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
