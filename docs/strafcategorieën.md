@@ -15,3 +15,7 @@ Bij sommige regels geld dat als je meerdere keren de straf doorgaat hij steeds s
 | Categorie 8 | 3 maanden |
 | Categorie 9 | Permanent |
 | Categorie 10 | Account Reset/Wipe |
+
+
+!!! attention "LET OP"
+    De straffen kunnen altijd **VERANDEREN**!
