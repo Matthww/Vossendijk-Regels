@@ -2,7 +2,7 @@
 
 De volgende gebieden zijn aangemerkt als no fly zones.
 
-* Militaire basis
+* Militaire Basis
 * Gevangenis
 * Blokkenpark tot een hoogte van 250 meter (800 feet)
 
